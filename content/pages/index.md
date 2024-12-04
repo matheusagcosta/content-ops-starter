@@ -7,7 +7,7 @@ sections:
       text: Você no Controle
       color: text-dark
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: ''
     text: >
       Acesso em nuvem, digitalização de processos e um aplicativo intuitivo para
       todos.
