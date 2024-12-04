@@ -1,10 +1,17 @@
 {
     "logo": {
-        "url": "/images/logo-dark.svg",
+        "url": "/images/condfy logo sm.png",
         "altText": "Logo dark",
         "styles": {
             "self": {
-                "margin": ["mr-3"]
+                "margin": [
+                    "mr-3"
+                ],
+                "padding": [
+                    "pl-0",
+                    "pr-0"
+                ],
+                "borderWidth": 0
             }
         },
         "type": "ImageBlock"
@@ -85,7 +92,8 @@
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "primary",
-            "type": "Button"
+            "type": "Button",
+            "showIcon": false
         }
     ],
     "variant": "logo-left-primary-nav-centered",
